@@ -56,16 +56,7 @@
                 <configuration>
                     <source>17</source>
                     <target>17</target>
-                    <compilerId>javac17</compilerId>
-                    <executable>/path/to/javac17</executable>
                 </configuration>
-                <dependencies>
-                    <dependency>
-                        <groupId>org.apache.maven.compiler</groupId>
-                        <artifactId>compiler-javac17</artifactId>
-                        <version>3.10.1</version>
-                    </dependency>
-                </dependencies>
             </plugin>
         </plugins>
     </build>
