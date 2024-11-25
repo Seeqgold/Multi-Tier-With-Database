@@ -58,10 +58,10 @@
     <configuration>
         <source>1.8</source>
         <target>1.8</target>
-        <compilerArgs>
-            <arg>--release</arg>
-            <arg>17</arg>
-        </compilerArgs>
+       <compilerArgs>
+            <arg>-verbose</arg>
+            <arg>-Xlint:all,-options,-path</arg>
+          </compilerArgs>
     </configuration>
 </plugin>
         </plugins>
