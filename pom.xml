@@ -66,15 +66,15 @@
     </build>
     <distributionManagement>
         <repository>
-            <id>maven-release</id>
-            <url>http://51.20.69.209:8081/repository/maven-releases/</url>
+            <id>maven-releases</id>
+            <url>http://16.171.232.165:8081/repository/maven-releases/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
-            <url>http://51.20.69.209:8081/repository/maven-snapshots/</url>
+            <urlhttp://16.171.232.165:8081/repository/maven-snapshots/</url>
             <snapshots>
                 <enabled>true</enabled>
             </snapshots>
