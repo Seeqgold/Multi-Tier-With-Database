@@ -74,7 +74,7 @@
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
-            <urlhttp://16.171.232.165:8081/repository/maven-snapshots/</url>
+            <url>http://16.171.232.165:8081/repository/maven-snapshots/</url>
             <snapshots>
                 <enabled>true</enabled>
             </snapshots>
